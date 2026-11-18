@@ -1,5 +1,9 @@
 # Confirmed Dip — a cbBTC race bot
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/Michaelembiring/makefun-btc-race-v3/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/Michaelembiring/makefun-btc-race-v3/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
 A bot for make.fun's 24h BTC races (cbBTC/USDC, 1-minute bars, long only,
 1,000 USDC paper start). Third in a line: "Dip Snap-Back" (v1) graded
 +10.25 USDC on its dev window and lost −16.40 live; "Deep Dip, Let It Run"
