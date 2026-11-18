@@ -48,9 +48,9 @@
 // never trades at all, which also means it can finish a race window
 // tradeless. That is the honest price of the selectivity.
 //
-// makefun-bars.ts (repo root) is a byte-identical copy of the kit's SDK shim.
+// vendor/makefun-bars.ts is a byte-identical copy of the kit's SDK shim.
 
-import { runBars, type OrderInput } from './makefun-bars.ts';
+import { runBars, type OrderInput } from './vendor/makefun-bars.ts';
 
 const SMA_BARS = 40;
 /** Buy a deep dip: close at least this far under the SMA. */

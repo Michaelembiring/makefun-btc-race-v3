@@ -71,5 +71,5 @@ comes — not a proven, repeatable edge.
 ## Layout
 
 - `main.ts` — the bot (entry point the harness runs).
-- `makefun-bars.ts` — byte-identical copy of the kit SDK shim (kept at repo root).
+- `vendor/makefun-bars.ts` — byte-identical copy of the kit SDK shim.
 - `LICENSE` — MIT.
